@@ -20,7 +20,7 @@ A RESTful payment processing API with an idempotency layer that ensures payments
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/davidberko36/Idempotency-Gateway.git
    cd Idempotency-Gateway
    ```
 
@@ -96,7 +96,7 @@ Returns the current balance for a user.
 ```json
 {
     "id": 1,
-    "name": "James Bond",
+    "name": "John Doe",
     "balance": "4900.00"
 }
 ```
